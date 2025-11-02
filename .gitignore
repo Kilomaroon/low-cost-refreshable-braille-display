@@ -53,3 +53,21 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# MPLAB X files
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+.generated/
+_build/
+dist/
+nbbuild/
+dist/
+nbdist/
+Makefile-*
+Package-*
+.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+html/
+Makefile-genesis.properties
