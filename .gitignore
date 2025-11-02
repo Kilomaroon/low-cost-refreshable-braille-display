@@ -71,3 +71,5 @@ nbactions.xml
 nb-configuration.xml
 html/
 Makefile-genesis.properties
+out/
+cmake/
