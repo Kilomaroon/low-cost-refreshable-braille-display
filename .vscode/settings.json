@@ -1,6 +1,0 @@
-{
-    "mplab.clangd.arguments": [
-        "--compile-commands-dir=${workspaceFolder}/_build/braille-display/default"
-    ],
-    "mplab.clangd.path": ""
-}
